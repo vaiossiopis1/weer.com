@@ -2,6 +2,7 @@
 
 A new Flutter project.
 The new Weer App.
+Weer, a global clothing rental platform that connects travelers to local clothing rental suppliers so they can travel light, travel smart and reduce luggage hassle.
 
 ## Getting Started
 
