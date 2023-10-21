@@ -1,6 +1,7 @@
 # weer_app
 
 A new Flutter project.
+The new Weer App.
 
 ## Getting Started
 
